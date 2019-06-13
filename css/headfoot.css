@@ -103,3 +103,14 @@ div.navigation,
 div.contact {
     margin: auto 0;
 }
+
+/* CHANGE HOURS HERE */
+.winter {
+    display: none;
+}
+
+/*
+.summer {
+    display: none;
+}
+*/
