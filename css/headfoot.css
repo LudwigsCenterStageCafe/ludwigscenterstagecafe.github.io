@@ -105,12 +105,11 @@ div.contact {
 }
 
 /* CHANGE HOURS HERE */
-.winter {
-    display: none;
-}
-
-/*
-.summer {
+/*.winter {
     display: none;
 }
 */
+
+.summer {
+    display: none;
+}
