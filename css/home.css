@@ -88,8 +88,6 @@
     color: #f7a603;
 }
 
-
-
 .callin {
     font-size: 1.3em;
     margin: auto;
@@ -138,6 +136,10 @@
 
 .explore a {
     color: #f7a603;
+}
+
+.explore a:hover {
+    color: #f7a603ad;
 }
 
 .slider {
