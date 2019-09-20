@@ -37,8 +37,8 @@
     }
     
     .mapframe {
-        width: 325px;
-        height: 200px;
+        width: 324px;
+        height: 243px;
     }
     
     .locinfo {
@@ -109,6 +109,13 @@
     .payge {
         display: block;
     }
+
+    .marks,
+    .amys {
+        width: 90%;
+        padding: 0;
+        margin: 0 auto;
+    }
     
     .locinfo {
         padding-top: 0;
@@ -120,17 +127,26 @@
     .maaap {
         padding-left: 0;
         padding-bottom: 50px;
-        width: 500px;
+        max-width: 500px;
+        max-height: 375px;
         margin: 0 auto;
     }
     
     .mapframe {
-        width: 490px;
-        height: 290px;
+        width: 100%;
+        height: auto;
     }
     
     div.linkbar {
         width: 90%;
+    }
+
+    .pickles-logo {
+        width: 30%;
+    }
+
+    .pickle-setup {
+        width: 100%;
     }
     
 }
@@ -152,6 +168,15 @@
     
     .navigation {
     	display: none;
+    }
+
+    .pickles-callout {
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+        margin: 0 auto;
+        padding: 15px 0;
     }
     
 }
@@ -197,15 +222,24 @@
     }
     
     .maaap {
-        width: 300px;
+        max-width: 300px;
+        height: auto;
     }
     
     .mapframe {
-        width: 290px;
+        width: 100%;
+        height: auto;
     }
     
     .locinfo {
         width: 90%;
     }
     
+    .pickles-logo {
+        width: 40%;
+    }
+
+    .pickles-callout {
+        max-width: 175px;
+    }
 }

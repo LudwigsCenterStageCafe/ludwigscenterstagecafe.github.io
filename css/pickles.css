@@ -1,0 +1,93 @@
+div.header {
+    background-color: #0b3e0d;
+}
+
+div.toplogo {
+    -webkit-filter: invert(1);
+    filter: invert(1);
+}
+
+.linkbar .link a {
+    color: #fff;
+}
+
+.linkbar .link a:hover {
+    color: #ffffffad;
+}
+
+.header .info {
+    color: #fff;
+}
+
+.pickles-logo {
+    width: 20%;
+}
+
+.content {
+    font-size: 1em;
+}
+
+.splash {
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 0;
+    font-size: 2.75em;
+}
+
+.payge {
+    display: flex;
+    justify-content: center;
+    width: 65%;
+    margin: 0 auto;
+    list-style-image: url(../assets/pickle-bullet.png);
+}
+
+.map {
+    padding-right: 15px;
+}
+
+.locinfo {
+    width: 510px;
+    padding-left: 15px;
+    line-height: 1.5em;
+}
+
+.locinfo {
+    font-size: 0.95em;
+}
+
+.address {
+    font-size: 20px;
+}
+
+.mapframe {
+    width: 500px;
+    height: 375px;
+    border: 5px;
+    border-color: #0b3e0d;
+    border-style: solid;
+}
+
+.amys {
+    width: 50%;
+    padding-right: 25px;
+}
+
+.marks {
+    width: 50%;
+    padding-left: 25px;
+}
+
+.pickle-title {
+    font-family: 'Pacifico', cursive;
+    font-weight: normal;
+    line-height: 1.5em;
+}
+
+.benefit-list li {
+    line-height: 30px;
+}
+
+.pickle-setup {
+    width: 80%;
+}
