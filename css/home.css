@@ -76,6 +76,20 @@
     margin: auto;
 }
 
+.covidpic {
+    background-image: url(../assets/goole-masks.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 294px;
+    height: 378px;
+    border: 5px;
+    border-style: solid;
+    border-color: #f7a603;
+    margin: auto;
+    padding: 6px;
+}
+
 .eventdesc {
     font-size: 1.3em;
     line-height: 35px;

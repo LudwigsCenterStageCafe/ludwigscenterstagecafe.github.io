@@ -105,14 +105,19 @@ div.contact {
 }
 
 /* CHANGE HOURS HERE */
-/*.winter {
+.winter {
     display: none;
 }
-*/
 
 .summer {
     display: none;
 }
+
+/*
+.covid {
+    display: none;
+}
+*/
 
 .callout-section {
     display: flex;
